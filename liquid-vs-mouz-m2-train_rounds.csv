@@ -1,0 +1,16 @@
+round_num,start,freeze_end,end,official_end,winner,reason,bomb_plant,bomb_site
+1,1,1264,6700,7020,t,ct_killed,6358,bombsite_b
+2,7020,8300,11908,12228,t,ct_killed,,not_planted
+3,12228,13508,15919,16239,t,ct_killed,,not_planted
+4,16239,17519,20816,21136,ct,t_killed,,not_planted
+5,21136,22416,29348,29668,t,ct_killed,27035,bombsite_b
+6,29668,30948,32657,32977,t,ct_killed,,not_planted
+7,32977,34257,39433,39753,t,bomb_exploded,36809,bombsite_b
+8,39753,43358,44931,45251,t,ct_killed,,not_planted
+9,45251,46531,51769,52089,ct,t_killed,,not_planted
+10,52089,53369,57754,58074,t,ct_killed,56176,bombsite_b
+11,58074,61628,67731,68051,t,ct_killed,65634,bombsite_b
+12,68051,69331,74806,75350,t,ct_killed,,not_planted
+13,75350,90030,92517,92837,ct,t_killed,,not_planted
+14,92837,94117,96403,96723,ct,t_killed,,not_planted
+15,96723,98003,102138,102138,ct,t_killed,,not_planted
