@@ -1,0 +1,4 @@
+round_num,start,freeze_end,end,official_end,winner,reason
+1,1,1262,6287,6607,ct,t_killed
+2,6607,7887,13633,13953,ct,t_killed
+3,13953,15233,16951,17271,ct,t_killed
